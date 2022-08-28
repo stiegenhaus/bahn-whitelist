@@ -2,6 +2,9 @@ logx.optimizely.com
 st.bahn.de
 cdn.m-pathy.com
 a791773171.cdn.optimizely.com
+*.cdn.optimizely
 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 siteintercept.qualtrics.com
 p11.techlab-cdn.com
+*.techlab-cdn.com
+*-bahn.siteintercept.qualtrics.com
